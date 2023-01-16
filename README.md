@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @k-shiman (Kostya or Chris)
-- 👀 I’m interested in Front-End Development
+- 👀 I’m interested in Front-End/Back-End Development
 - 🌱 I’m currently learning Python. Improving knowledge in CSS, JS, HTML
 - 📫 How to reach me: shiman.konstantin1@gmail.com
 
