@@ -1,4 +1,4 @@
-# Hi, I'm Kostya (Chris) 👋
+# Hi, I'm Chris 👋
 
 I'm a practical, hands-on person who enjoys fixing small but annoying problems with code.
 
